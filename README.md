@@ -2,7 +2,7 @@
 
 <h2>SOC Analyst Projects:</h2>
 
-- [SOC Home Lab](https://github.com/joshmadakor1/cgnyfjyfjf)
+- [SOC Home Lab](https://github.com/BlakeSecureX/SOCHomeLab/tree/main)
 
 <h2>Certifications</h2>
 
