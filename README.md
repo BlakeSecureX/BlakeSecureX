@@ -2,7 +2,7 @@
 
 <h2>SOC Analyst Projects:</h2>
 
-- [SOC Home Lab](https://github.com/BlakeSecureX/SOCHomeLab/tree/main)
+- [SOC Home Lab SetUp](https://github.com/BlakeSecureX/SOCHomeLab/tree/main)
 
 <h2>Certifications</h2>
 
@@ -10,7 +10,7 @@
 
 <h2>YouTube Videos</h2>
 
-- [Built Soc Home Lab](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Soc Home Lab Setup](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
