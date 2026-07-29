@@ -1,16 +1,12 @@
 <h1>Hi, I'm Blake! </h1>
 
-<h2>SOC Analyst Projects:</h2>
+<h2>Cyber Projects:</h2>
 
-- [SOC Home Lab SetUp](https://github.com/BlakeSecureX/SOCHomeLab/tree/main)
+- [Virtual Home Lab SetUp](https://github.com/BlakeSecureX/SOCHomeLab/tree/main)
 
 <h2>Certifications</h2>
 
 - [CompTIA Security+](https://media.licdn.com/dms/image/v2/D4E2DAQH7OFDQsL0gMg/profile-treasury-document-images_1280/B4EZm8nkWPIoAU-/1/1759806114595?e=1785369600&v=beta&t=T4WoVzvU5LTSRLuaPESbVgMe4qe-yl_2-Ta5BcipMzM)
-
-<h2>YouTube Videos</h2>
-
-- [Soc Home Lab Setup](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
